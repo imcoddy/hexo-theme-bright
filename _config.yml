@@ -4,11 +4,12 @@ menu:
   About: /about
 
 widgets: 
-- search
-- category
+- categories
 - tag
 - twitter
+- search
 
+#- tagcloud
 excerpt_link: Read More
 
 twitter:

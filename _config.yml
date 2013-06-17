@@ -6,9 +6,9 @@ menu:
 widgets: 
 - categories
 - tag
-- twitter
 - search
 
+#- twitter
 #- tagcloud
 excerpt_link: Read More
 
